@@ -1,0 +1,32 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Abacaxi",
+      "image": "https://static.todamateria.com.br/upload/ab/ac/abacaxi-0-cke.jpg?auto_optimize=low",
+      "description": "Rico em vitamina C e contribui para o funcionamento do sistema imunológico.",
+      "url": "https://www.livup.com.br/ingredientes/abacaxi"
+    },
+    {
+      "id": 2,
+      "name": "Cacau",
+      "image": "https://www.designi.com.br/images/preview/10077710.jpg",
+      "description": "Rico em fibras e minerais, como ferro, fósforo e cálcio.",
+      "url": "https://www.livup.com.br/ingredientes/cacau"
+    },
+    {
+      "id": 3,
+      "name": "Goiaba Vermelha",
+      "image": "https://st3.depositphotos.com/1006597/34813/i/450/depositphotos_348130344-stock-photo-isolated-green-guava-with-pink.jpg",
+      "description": "Rica em vitamina C, ela possui vitaminas A, E e quase todas do complexo B.",
+      "url": "https://www.livup.com.br/ingredientes/goiaba"
+    },
+    {
+      "id": 7,
+      "name": "Jaca",
+      "image": "https://img.freepik.com/fotos-premium/jaca-com-isolado-no-fundo-branco_253984-5865.jpg",
+      "description": "Possui cálcio, potássio, ferro, fósforo e vitaminas A, B e C.",
+      "url": "https://www.livup.com.br/ingredientes/jaca"
+    }
+  ]
+}
